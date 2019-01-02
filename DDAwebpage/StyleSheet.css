@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+
+    color: #ffffff;
+
+
+}
+
+body {
+    background-image: url("BackgroudImage.jpg");
+
+
+}
+
+
+
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width:33.33%;
+    padding: 100px;
+
+
+
+}
+
+.Home {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+}
+
+
+#Dylan {
+    position: relative;
+    left: 75px;
+
+
+
+}
